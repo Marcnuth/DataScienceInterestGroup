@@ -101,6 +101,7 @@ Use ? + function namexs
 - Do some statistics on the information
 - Calculate the distribution of stock
 ？YQL/Yahoo finance API
+*You can download the stock data in: http://quotes.money.163.com/trade/lsjysj_zhishu_000001.html*
 
 
 
